@@ -1,4 +1,4 @@
-package person;
+package week1.person;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package calculate;
+package week1.calculate;
 
 public class Calculate {
 	

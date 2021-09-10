@@ -1,4 +1,4 @@
-package myname;
+package week1.myname;
 
 public class Myname {
 
