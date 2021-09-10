@@ -1,5 +1,5 @@
 package week2.myDate;
-import week2.myDate.MyDate;
+//import week2.myDate.MyDate;
 
 public class MyDateTest {
     public static void main(String[] args) {

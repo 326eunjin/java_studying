@@ -1,8 +1,8 @@
 package week3.CardCompany;
 
 public class Card {
-    static int card_num=10000;
-    int this_card;
+    private static int card_num=10000;
+    private int this_card;
     Card()
     {
         this.card_num++;

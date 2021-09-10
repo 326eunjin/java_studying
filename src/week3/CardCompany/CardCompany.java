@@ -1,6 +1,6 @@
 package week3.CardCompany;
 
-import week3.Company.Company;
+//import week3.Company.Company;
 
 public class CardCompany {
     private static CardCompany one;
