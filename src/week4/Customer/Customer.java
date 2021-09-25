@@ -7,6 +7,7 @@ class Customer {
 	protected int bonusPoint;
 	protected int price;
 	protected int customerService = 0;
+	protected int num=30;
 	Customer(String name){
 		this.name=name;
 		this.grade="SILVER";
@@ -53,6 +54,7 @@ class GOLDCustomer extends Customer{
 	}
 }
 class VIPCustomer extends Customer{
+	int num=40;
 	VIPCustomer (String name){
 		super(name);
 		super.grade="VIP";

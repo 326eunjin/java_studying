@@ -36,6 +36,7 @@ public class CustomerTest{
 		GOLDCustomer customerHong = new GOLDCustomer("홍길동");
 		GOLDCustomer customerLee2 = new GOLDCustomer("이율곡");	
 		VIPCustomer customerKim = new VIPCustomer("김유신");
+		System.out.println(customerKim.num);
 		ArrayList <Customer> customerList=new ArrayList<Customer>();
 		customerList.add(customerLee);
 		customerList.add(customerShin);
