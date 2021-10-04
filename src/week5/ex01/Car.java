@@ -21,7 +21,7 @@ public abstract class Car {
         stop();
     }
 
-    abstract void wiper();
+    void wiper(){};
 }
 
 class AICar extends Car {
