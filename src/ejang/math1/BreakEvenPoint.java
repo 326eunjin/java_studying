@@ -1,4 +1,4 @@
-package ejang.math1;
+package math1;
 
 import java.util.Scanner;
 
